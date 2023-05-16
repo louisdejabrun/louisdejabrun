@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "centrepompidou", "mag": 2.3, "time": 1507425650893, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 48.863369705926004, 2.352609141048176 ] } },
+{ "type": "Feature", "properties": { "id": "palaisgarnier", "mag": 1.7, "time": 1507425289659, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 48.874165315422594, 2.331694411368566 ] } },
+{ "type": "Feature", "properties": { "id": "toureiffel", "mag": 1.6, "time": 1507424832518, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 48.85978712652486, 2.2949331468217764 ] } },
+{ "type": "Feature", "properties": { "id": "pantheon", "mag": 1.42, "time": 1507423898710, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 48.84898888490966, 2.3467517866701884 ] } },
+{ "type": "Feature", "properties": { "id": "catacombes", "mag": 1.5, "time": 1504834613166, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 48.83597444653417, 2.332987097162955 ] } },
+{ "type": "Feature", "properties": { "id": "butteschaumont", "mag": 2.91, "time": 1504833891990, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 48.882819911334636, 2.382237684534311 ] } }
+]
+}
