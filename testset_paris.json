@@ -8,8 +8,5 @@
 { "type": "Feature", "properties": { "id": "pantheon", "mag": 1.42, "time": 1507423898710, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 2.3467517866701884, 48.84898888490966 ] } },
 { "type": "Feature", "properties": { "id": "catacombes", "mag": 1.5, "time": 1504834613166, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 2.332987097162955, 48.83597444653417 ] } },
 { "type": "Feature", "properties": { "id": "butteschaumont", "mag": 2.91, "time": 1504833891990, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 2.382237684534311, 48.882819911334636 ] } }
-{ "type": "Feature", "properties": { "id": "datashake", "geometry": { "type": "Point", "coordinates": [ 2.3241084, 48.8834536 ] } },
-{ "type": "Feature", "properties": { "id": "Com And Dream", "geometry": { "type": "Point", "coordinates": [ 2.3384674, 48.8730485 ] } },
-{ "type": "Feature", "properties": { "id": "ESR", "geometry": { "type": "Point", "coordinates": [ 2.3875884, 48.8767633 ] } },
 ]
 }
