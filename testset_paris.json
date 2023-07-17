@@ -7,6 +7,8 @@
 { "type": "Feature", "properties": { "id": "toureiffel"}, "geometry": { "type": "Point", "coordinates": [ 2.2949331468217764, 48.85978712652486 ] } },
 { "type": "Feature", "properties": { "id": "pantheon"}, "geometry": { "type": "Point", "coordinates": [ 2.3467517866701884, 48.84898888490966 ] } },
 { "type": "Feature", "properties": { "id": "catacombes"}, "geometry": { "type": "Point", "coordinates": [ 2.332987097162955, 48.83597444653417 ] } },
-{ "type": "Feature", "properties": { "id": "butteschaumont"}, "geometry": { "type": "Point", "coordinates": [ 2.382237684534311, 48.882819911334636 ] } }
+{ "type": "Feature", "properties": { "id": "butteschaumont"}, "geometry": { "type": "Point", "coordinates": [ 2.382237684534311, 48.882819911334636 ] } },
+{ "type": "Feature", "properties": { "id": "datashake", "description" : "6, Rue Abel Truchet, Paris,  75017, FR" , "url":"https://www.deepreach.com/agency/datashake" }, "geometry": { "type": "Point", "coordinates": [ 2.3241084, 48.8834536 ] } },{ "type": "Feature", "properties": { "id": "Com And Dream", "description" : "23 rue Le Peletier, Paris 75009, FR" , "url":"https://www.deepreach.com/agency/com-and-dream" }, "geometry": { "type": "Point", "coordinates": [ 2.3384674, 48.8730485 ] } }
+
 ]
 }
