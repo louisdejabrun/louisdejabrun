@@ -18,6 +18,6 @@
 { "type": "Feature", "properties": { "id": "84", "description" : "18/20 rue de la forge royale, Paris,  75011, FR" , "url":"https://www.deepreach.com/agency/84" }, "geometry": { "type": "Point", "coordinates": [ 2.3808343, 48.8515132 ] } },
 { "type": "Feature", "properties": { "id": "Oscar Referencement", "description" : "58, Rue Greneta, Paris,  Île-de-France 75002, FR" , "url":"https://www.deepreach.com/agency/oscar-referencement-agence-seo" }, "geometry": { "type": "Point", "coordinates": [ 2.3478379, 48.8657184 ] } },
 { "type": "Feature", "properties": { "id": "Agence Cassian", "description" : "19 rue Claude Bernard, Paris,  Ile de France 75005, FR" , "url":"https://www.deepreach.com/agency/agence-cassian" }, "geometry": { "type": "Point", "coordinates": [ 2.3485916, 48.8390549 ] } },
-{ "type": "Feature", "properties": { "id": "heaven", "description" : "25, Rue Notre-Dame-des-Victoires, Paris,  Île-de-France 75002, FR" , "url":"https://www.deepreach.com/agency/heaven" }, "geometry": { "type": "Point", "coordinates": [ 2.3424966, 48.8700935 ] } },
+{ "type": "Feature", "properties": { "id": "heaven", "description" : "25, Rue Notre-Dame-des-Victoires, Paris,  Île-de-France 75002, FR" , "url":"https://www.deepreach.com/agency/heaven" }, "geometry": { "type": "Point", "coordinates": [ 2.3424966, 48.8700935 ] } }
 ]
 }
